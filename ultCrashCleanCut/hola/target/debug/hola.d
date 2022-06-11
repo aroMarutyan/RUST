@@ -1,0 +1,1 @@
+/Users/mac/Documents/webDev/Rust/ultCrashCleanCut/hola/target/debug/hola: /Users/mac/Documents/webDev/Rust/ultCrashCleanCut/hola/src/lib.rs /Users/mac/Documents/webDev/Rust/ultCrashCleanCut/hola/src/main.rs
